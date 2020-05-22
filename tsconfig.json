@@ -11,7 +11,7 @@
     ], /* Specify library files to be included in the compilation. */
     // 允许编译javascript文件。
     "allowJs": true,
-    // 在 .js文件中报告错误。与 --allowJs配合使用。
+    // 在js文件中报告错误。与 --allowJs配合使用。
      "checkJs": true,                     
     // "jsx": "preserve",                     /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */
     // "declaration": true,                   /* Generates corresponding '.d.ts' file. */
